@@ -1,0 +1,32 @@
+.navbar-brand{
+  font-size: 2rem !important;
+  color: blue;
+  font-weight: bold;
+  }
+  .card-footer>a{
+    color: #de052f;
+    text-decoration: none;
+    font-size: large;
+    font-weight: bold;
+  }
+  #downloads{
+    background-color: aliceblue;
+  }
+  #offer-title{
+    font-size: 2.5rem;
+    letter-spacing: 0.15;
+    color: #59688c;
+    text-transform: none;
+     font-weight: bold;
+  }
+
+  #offer-desc{
+    font-size: 27px;
+    line-height: 43px;
+    letter-spacing: 0.24px;
+    color: #8899c0;
+    max-width: 80%;
+  }
+  #haf{
+    background-color: #de052f;
+  }
